@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tolani07
-- 👀 I’m interested in Health Informatics
+- 👀 I’m interested in Health Data Science
 - 🌱 I’m currently learning Natural language processing
 - 💞️ I’m looking to collaborate on informatics projects 
 - 📫 How to reach me ...
